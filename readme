@@ -1,0 +1,67 @@
+# Will You Be My Valentine, Marji? 💕
+
+A cute and interactive Valentine's Day website to ask your special someone to be your Valentine with a playful twist!
+
+![Valentine's Day Website](https://img.shields.io/badge/Valentine's-Day-Love-red) 
+![Status](https://img.shields.io/badge/status-active-success) 
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Features ✨
+
+- **Beautiful Design**: Romantic pink and red color scheme with floating hearts animation
+- **Interactive "No" Button**: Playfully runs away from the cursor, making it impossible to click!
+- **Celebration Mode**: When "Yes" is clicked, a celebration screen appears with confetti and animated hearts
+- **Responsive**: Works on both desktop and mobile devices
+- **Personalized**: Easily customizable with your loved one's name
+
+## How to Use 🚀
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/valentine-proposal-marji.git
+   ```
+
+2. Open `index.html` in your web browser to view the website
+
+3. To customize with a different name:
+   - Open `index.html` in a text editor
+   - Find the line with "Marji" and replace it with your Valentine's name
+
+## Screenshots 📸
+
+The website features:
+- A romantic background with floating hearts
+- A central card with the question "Will you be my Valentine?"
+- Two buttons: "Yes" and "No"
+- The "No" button playfully avoids the cursor
+- A celebration screen when "Yes" is clicked
+
+## Customization 🎨
+
+You can easily customize this project by:
+- Changing the background image in the CSS
+- Modifying the colors in the CSS variables
+- Adding your own message when "Yes" is clicked
+- Changing the celebration animation
+
+## Technical Details 🛠️
+
+- Built with HTML5, CSS3, and JavaScript
+- No external dependencies required
+- Simple and easy to understand code
+
+## Credits 💝
+
+Created with ❤️ for Marji
+
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support 💌
+
+If you have any questions or need help customizing this project, feel free to open an issue.
+
+---
+
+Made with love for Valentine's Day 2026!
